@@ -1,0 +1,21 @@
+{
+  "name": "baseline-docs",
+  "version": "1.0.0",
+  "description": "## Welcome to the Baseline Protocol Community",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "postinstall": "gitbook install"
+  },
+  "dependencies": {
+    "@aleung/gitbook": "^3.2.7",
+    "gitbook-plugin-meta": "^0.1.12"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "markdownlint": "^0.20.4",
+    "markdownlint-cli2": "0.0.4"
+  }
+}

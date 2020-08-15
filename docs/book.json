@@ -1,0 +1,54 @@
+{
+  "root": "./",
+  "title": "Baseline Protocol",
+  "description": "Protocol Spec",
+  "author": "The Authors",
+  "isbn": "",
+  "language": "en",
+  "direction": "ltr",
+  "gitbook": ">= 3.0.0",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": ["meta"],
+  "pluginsConfig": {
+    "analytics": {
+      "google": "UA-00000000-00"
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    },
+    "autocover": {
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+      },
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
+      }
+    },
+    "meta": {
+      "data": [
+        {
+          "name": "keywords",
+          "content": "ethereum, protocol, golang, development, examples, tutorial, explained, guide, help, reference, stackoverflow, blockchain, smart contracts, deploy, erc-20, tokens, coins, eth, vitalik, ethereum book, ethereum golang, ethereum golang tutorial, golang ethereum tutorial, ethereum golang guide, golang ethereum guide, protocol, zero knowledge interact smart contracts"
+        },
+        {
+          "name": "googlebot",
+          "content": "index,follow"
+        },
+        {
+          "name": "application-name",
+          "content": "Ethereum"
+        }
+      ]
+    }
+  }
+}
